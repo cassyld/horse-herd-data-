@@ -7,3 +7,8 @@ output: html_notebook
 
 Import full text of Equus for NLP. 
 
+```{r}
+garbage <- function(){
+  "nonsense"
+}
+```
