@@ -1,0 +1,7 @@
+---
+title: "30-feature-engineering"
+output: html_notebook
+---
+# Feature Engineering
+
+initital feature engineering for horse herd data

@@ -1,0 +1,9 @@
+---
+title: "10-import-data"
+output: html_notebook
+---
+
+# Import Data
+
+Import full text of Equus for NLP. 
+
