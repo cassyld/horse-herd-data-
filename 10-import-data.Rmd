@@ -7,3 +7,10 @@ output: html_notebook
 
 Import full text of Equus for NLP. 
 
+## Using the Import GUI to write the code for the import
+
+```{r}
+
+```
+
+
