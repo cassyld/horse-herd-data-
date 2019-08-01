@@ -1,0 +1,10 @@
+---
+title: "20-eda"
+output: html_notebook
+---
+
+# eda 
+
+We will see how many baby foals at each farm in TN across time.  
+
+
