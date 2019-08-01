@@ -1,0 +1,8 @@
+---
+title: "40-modeling"
+output: html_notebook
+---
+
+# Modeling Horse Data
+
+Model the relationship between horse-related words and Tennessee farms.
